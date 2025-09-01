@@ -1,17 +1,20 @@
-## Ezekiel Turnbough
-# GVSU Computer Science Student Class of 2026
+# Ezekiel Turnbough
+## GVSU Computer Science Student Class of 2026
 
-<!--
-**Ezekiel-Turnbough03/Ezekiel-Turnbough03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🤔Who am I
+ Computer Science student interested in Software Development
+ Proficient in C++ and Python
+ Currently learning Web and Mobile App development.
+ 
+ Currently working on a Fitness Website and have great hopes for the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### ⚡Skills
+ Programming Languages: Python, C++, JavaScript
+ Applications: React, Node
+
+### 📫 How to reach me:
+LinkedIn: https://www.linkedin.com/in/
+ezekiel-turnbough/
+
+Email: ezekielturnbough@gmail.com
