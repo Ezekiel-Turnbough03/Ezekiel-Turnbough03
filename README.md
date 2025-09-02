@@ -3,18 +3,17 @@
 
 
 ### 🤔Who am I
- Computer Science student interested in Software Development
- Proficient in C++ and Python
- Currently learning Web and Mobile App development.
- 
- Currently working on a Fitness Website and have great hopes for the project.
+-  Computer Science student interested in Software Development
+-  Proficient in C++ and Python
+-   Currently learning Web and Mobile App development.
+
+ #### ✏️Current Projects
+-  I am working on a Fitness Website and have great hopes for the project.
 
  ### ⚡Skills
- Programming Languages: Python, C++, JavaScript
- Applications: React, Node
+-  Programming Languages: Python, C++, JavaScript
+-  Applications: React, Node
 
 ### 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/
-ezekiel-turnbough/
-
-Email: ezekielturnbough@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ezekiel-turnbough/
+- Email: ezekielturnbough@gmail.com
