@@ -1,5 +1,3 @@
-[Ezekiel-Turnbough03](https://github.com/Ezekiel-Turnbough03/Ezekiel-Turnbough03)/README.md
-
 # Ezekiel Turnbough
 ## GVSU Computer Science Student Class of 2026
 
